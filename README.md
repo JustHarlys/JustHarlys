@@ -1,4 +1,8 @@
-### Hi there 👋
+### My name is Harlys Almanzar
+
+### I'm a FullStack Developer currently in process
+
+### I'm based in the Dominican Republic
 
 <!--
 **JustHarlys/JustHarlys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
