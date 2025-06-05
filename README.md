@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hola, soy un desarrollador en constante aprendizaje, enfocado en el desarrollo backend y en crear herramientas que realmente ayuden a las personas a alcanzar sus metas. Aunque mi camino no ha sido completamente lineal, cada paso ha sido una oportunidad para mejorar mis habilidades y crecer profesionalmente.<br>La ciberseguridad es un área que exploro como pasatiempo, lo que me permite ver la tecnología desde diferentes ángulos. Me gusta reinventarme y aprender algo nuevo siempre que puedo.<br>Actualmente, estoy trabajando en proyectos personales y mejorando mi base técnica, con el objetivo de convertirme en un mejor desarrollador cada día.
+Hola, soy un desarrollador en constante aprendizaje, enfocado en el desarrollo fullstack y en crear herramientas que realmente ayuden a las personas a alcanzar sus metas. Aunque mi camino no ha sido completamente lineal, cada paso ha sido una oportunidad para mejorar mis habilidades y crecer profesionalmente.<br>La ciberseguridad es un área que exploro como pasatiempo, lo que me permite ver la tecnología desde diferentes ángulos. Me gusta reinventarme y aprender algo nuevo siempre que puedo.<br>Actualmente, estoy trabajando en proyectos personales y mejorando mi base técnica, con el objetivo de convertirme en un mejor desarrollador cada día.
 
 
 ## 🌐 Socials:
